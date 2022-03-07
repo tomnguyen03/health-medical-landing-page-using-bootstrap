@@ -243,6 +243,9 @@ h6 {
 }
 
 /*  */
+.banner {
+    margin-top: 5rem !important;
+}
 .nav-bar {
     padding: 1rem 0 !important;
 }
